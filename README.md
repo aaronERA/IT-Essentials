@@ -1,4 +1,4 @@
-####👋 Welcome to Aaron's IT-Essentials repo!
+#### 👋 Welcome to Aaron's IT-Essentials repo!
 
 As an IT professional, it's important to have the right tools to get the job done. Here are some widely-used open source tools that cover all of the important components of IT:
 
